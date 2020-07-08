@@ -2,8 +2,8 @@ import React, {useState} from 'react';
 import { Grid, Row, Col } from "react-styled-flexboxgrid";
 import Image from 'material-ui-image'
 import { Link } from "gatsby";
-import SignUp from "./../SignUp/index.tsx";
-import LogIn from "./../LogIn/index.tsx";
+import SignUp from "components/Signup/index.tsx";
+import LogIn from "components/Login/index.tsx";
 
 const loginStyle = {
                     marginLeft:'0.5em',

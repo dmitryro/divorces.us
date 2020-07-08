@@ -7,7 +7,7 @@ import classNames from "classnames";
 import { List, ListItem, withStyles } from "@material-ui/core";
 import GridContainer from "components/Grid/GridContainer.jsx";
 import GridItem from "components/Grid/GridItem.jsx";
-import GSLogo from "components/GSlogo/index.tsx";
+import GSLogo from "components/GSLogo/index.tsx";
 
 // @material-ui/icons
 import Favorite from "@material-ui/icons/Favorite";

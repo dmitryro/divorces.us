@@ -15,7 +15,7 @@ import classNames from "classnames";
 import { List, ListItem, withStyles } from "@material-ui/core";
 import GridContainer from "components/Grid/GridContainer.jsx";
 import GridItem from "components/Grid/GridItem.jsx";
-import Map from "components/Map/Index.tsx";
+import Map from 'components/Map/index.tsx';
 import Overlay from "./Overlay.tsx";
 
 // @material-ui/icons

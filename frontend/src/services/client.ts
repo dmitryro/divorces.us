@@ -1,6 +1,6 @@
 // client.js
 const axios = require('axios');
-var baseUrl = 'http://0.0.0.0/api/';
+var baseUrl = 'http://0.0.0.0:8080/api/';
 
 
 class Client{
