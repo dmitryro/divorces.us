@@ -1,0 +1,19 @@
+[
+  {
+    "model": "metaprop.ProfileMetaProp",
+    "pk": 1,
+    "fields": {
+        "title": "email",
+        "email": "info@gslawerusa.com",
+        "from_email": "info@gslawerusa.com",
+        "to_email": "info@gslawerusa.com",
+        "to_email_secondary": "ajsegal@myattorneyusa.com",
+        "to_email_third": "info@gslawerusa.com",
+        "smtp_server": "email-smtp.us-east-1.amazonaws.com",
+        "smtp_port": 587,
+        "user_name": "",
+        "password": "",
+        "message": ""
+    }
+  }
+]

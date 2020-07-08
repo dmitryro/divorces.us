@@ -1,0 +1,70 @@
+<section class="published-paragraph">
+<h3>Child Support</h3>
+ </section> <section class="published-paragraph">
+
+<p>In divorces where children are involved, child support may emerge as significant issue.  Child support may be negotiated and agreed upon by the parties in divorce mediations or may be determined and ordered by a judge in contested divorce proceedings.  Child support generally involves  the non-custodial parent of a child making negotiated or court ordered payments to the custodial parent.  Both New York and New Jersey have similar systems for calculating child support obligations. &nbsp;In this article, we will briefly examine a sampling of the significant child support provisions in New York and New Jersey.</p>
+ </section> <section class="published-paragraph">
+
+<h4><strong>Child Support in New York</strong></h4>
+ </section> <section class="published-paragraph">
+
+<p>The major statutes regarding child support in New York are found in NY Dom Rel L sec. 240  (2016).  The NY statutes define child support as money paid by one or both parents under a court order or under a valid agreement between the parties. If an agreement stipulates a child support amount that deviates from the payer's basic child support obligation under New York law, "the  agreement  or stipulation must specify the amount that
+  such basic child support obligation would have been and  the  reason  or
+  reasons  that such agreement or stipulation does not provide for payment
+  of that amount..." New York law has specific formulas for calculating the basic child support obligation based on an income shares model which takes into account the incomes of both parents and apportions from that a percentage of the income from the non-custodial parent. The New York rules are designed to ensure that child support does not place one party below the federal poverty level.
+</p>
+ </section> <section class="published-paragraph">
+
+<p>Courts may deviate from the basic child support obligation for the non-custodial parent based on the following factors (paraphrased):
+</p>
+ </section> <section class="published-paragraph">
+<section class="shift-right">
+<ol>
+    <li>The financial resources of the parents and those of the child;</li>
+    <li>The physical and emotional health of the child and his or her special needs;</li>
+    <li>The standard of living that the child would have had if the marriage or household had not been dissolved;</li>
+    <li>The tax consequences to the parties;</li>
+    <li>The non-monetary contributions that the parties will make toward the well-being of the child;</li>
+    <li>The educational needs of either parent;</li>
+    <li>The determination that the gross income of one parent is substantially less than the other parent’s;</li><li>The needs of the children of the non-custodial parent who are not subject to the child support action in question;</li><li>The financial resources of any person obligated to support the children;</li><li>Provided that the child is not on public assistance, extraordinary expenses incurred by the non-custodial parent in exercising visitation; and</li>
+    <li>Any other factors deemed relevant by the court.</li>
+</ol>
+</section>
+
+ </section> <section class="published-paragraph">
+
+<p>It is important to note that spousal support and child support are distinct concepts, but may both be considered in determining the payees financial needs.
+</p>
+ </section> <section class="published-paragraph">
+
+<h4><strong>Child Support in New Jersey</strong></h4>
+ </section> <section class="published-paragraph">
+
+<p>New Jersey's formulas for determining child support are similar to those in New York.  The New Jersey Rules of the Court set the standard that New Jersey will use the “Income Shares Approach” to apportioning child rearing expenses.  This approach is used because New Jersey State law presumes that both parents are responsible for the care of the children. Accordingly, the amount of child support depends on a formula involving the combined income of both parents and the income of the payee. When there is one custodial parent and one non-custodial parent, the approach will be used to ensure that the non-custodial parent makes the requisite contribution to the expenses involved in raising the child. The child support orders may be adjusted pending new evidence.
+</p>
+<p>Under NJ Rev Stat sec. 2A:34-23 (2016), a court must consider the following factors in determining how much child support is appropriate in divorce proceedings or whether to modify such support (paraphrased):
+</p>
+ </section> <section class="published-paragraph">
+<section class="shift-right">
+
+<ol>
+    <li>The needs of the child;</li>
+    <li>The standard and living and circumstances of each parent;</li>
+    <li>The sources of income of each parent;</li>
+    <li>The earning ability of each parent;</li>
+    <li>The need and capacity of the child for education, including higher education;</li>
+    <li>The age and health of the child and of each parent;</li>
+    <li>The income, assets, and earning ability of the child;</li>
+    <li>The responsibility of the parents for the court-ordered support of others;</li>
+    <li>The reasonable debts and liabilities of each parent; and</li>
+    <li>Any other factors deemed relevant by the court.</li>
+</ol>
+</section>
+ </section> <section class="published-paragraph">
+<p>The statute notes that child support obligations may not necessarily cease merely on account of the child’s age if the child suffers from severe mental or physical incapacity that hinders his or her ability to be independent.
+</p><p>The New Jersey Rules of the Court state that where the parties reach an agreement on child support payments that diverges from the New Jersey formulas, the agreement must state what the child support obligation would be under New Jersey rules and why the amount in the agreement differs from that amount.</p>
+<h4><strong>Conclusion</strong></h4>
+ </section> <section class="published-paragraph">
+<p>Child support is one of many complicated issues that may arise in divorce mediation or proceedings where the parties have children. In some cases, the amount of child support may be identical to the amounts stipulated in the New York and New Jersey formulas. In all cases, the experienced family law attorneys at The Law Offices of Grinberg &amp; Segal stand ready to assist clients in matters involving child support and other complicated issues that may arise during the divorce process.</p>
+ </section>
+

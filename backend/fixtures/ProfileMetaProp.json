@@ -1,0 +1,36 @@
+[
+  {
+    "model": "payments.Address",
+    "pk": 1,
+    "fields": {
+        "user_id": 1,
+        "name_or_company": "D R",
+        "address1": "150 West End",
+        "address2": "6D",
+        "city": "Brooklyn",
+        "state_province_id": 39,
+        "country": "US",
+        "zip_or_postal": "11235",
+        "is_default": false,
+        "is_active": true,
+        "nickname": "address"
+    }
+  },
+  {
+    "model": "payments.Address",
+    "pk": 2,
+    "fields": {
+        "user_id": 1,
+        "name_or_company": "D R",
+        "address1": "150 West End Avenue",
+        "address2": "6D",
+        "city": "Brooklyn",
+        "state_province_id": 39,
+        "country": "US", 
+        "zip_or_postal": "11235",
+        "is_default": false,
+        "is_active": true,
+        "nickname": "address"
+    }
+  }
+]

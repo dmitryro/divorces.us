@@ -1,0 +1,47 @@
+[
+  {
+    "model": "consult.Children",
+    "pk": 1,
+    "fields": {
+        "number": "None",
+        "value": "None",
+        "numeric": 0
+    }
+  },
+  {
+    "model": "consult.Children",
+    "pk": 2,
+    "fields": {
+        "number": "1",
+        "value": "1",
+        "numeric": 1
+    }
+  },
+  {
+    "model": "consult.Children",
+    "pk": 3,
+    "fields": {
+        "number": "2",
+        "value": "2",
+        "numeric": 2
+    }
+  },
+  {
+    "model": "consult.Children",
+    "pk": 4,
+    "fields": {
+        "number": "3",
+        "value": "3",
+        "numeric": 3
+    }
+  },
+  {
+    "model": "consult.Children",
+    "pk": 5,
+    "fields": {
+        "number": "4 or more",
+        "value": "4 or more",
+        "numeric": 4
+    }
+  }
+]

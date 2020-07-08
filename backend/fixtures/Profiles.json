@@ -1,0 +1,187 @@
+[
+  {
+    "model": "users.Profile",
+    "pk": 1,
+    "fields": {
+      "user_id" : 1,
+      "first_name": "Dmitry",
+      "last_name": "Roitman",
+      "email": "dmitryro@gmail.com",
+      "profile_image_path": "/avatars/default.png",
+      "is_activated": true,
+      "is_new": false,
+      "is_confirmed": true,
+      "is_cleared":true,
+      "date_joined": "2020-06-28 05:20:20"
+    }
+  },
+  {
+    "model": "users.Profile",
+    "pk": 2,
+    "fields": {
+      "user_id" : 2,
+      "first_name": "Alexander",
+      "last_name": "Segal",
+      "email": "ajsegal@myattorneyusa.com",
+      "profile_image_path": "/avatars/segal_full.jpg",
+      "is_activated": true,
+      "is_new": false,
+      "is_confirmed": true,
+      "is_cleared":true,
+      "date_joined": "2020-06-28 05:20:20"
+    }
+  },
+  {
+    "model": "users.Profile",
+    "pk": 3,
+    "fields": {
+      "user_id" : 3,
+      "username": "egrinberg",
+      "first_name": "Eliza",
+      "last_name": "Grinberg",
+      "email":"egrinberg@myattorneyusa.com",
+      "profile_image_path": "/avatars/grinberg2.jpg",
+      "is_activated": true,
+      "is_new": false,
+      "is_confirmed": true,
+      "is_cleared":true,
+      "date_joined": "2020-06-28 05:20:20"
+    }
+  },
+  {
+    "model": "users.Profile",
+    "pk": 4,
+    "fields": {
+      "user_id" : 4,
+      "username": "wbarlow",
+      "first_name": "Wendey",
+      "last_name": "Barlow",
+      "email":"wbarlow@myattorneyusa.com",
+      "profile_image_path": "/avatars/Barlow.jpg",
+      "is_activated": true,
+      "is_new": false,
+      "is_confirmed": true,
+      "is_cleared":true,
+      "date_joined": "2020-06-28 05:20:20"
+    }
+  },
+  {
+    "model": "users.Profile",
+    "pk": 5,
+    "fields": {
+      "user_id" : 5,
+      "username": "dmitrykh",
+      "first_name": "Dmitriy",
+      "last_name": "Khorosheniuk",
+      "email": "d.khorosheniuk@gmail.com",
+      "profile_image_path": "/avatars/default.png",
+      "is_activated": true,
+      "is_new": false,
+      "is_confirmed": true,
+      "is_cleared":true,
+      "date_joined": "2020-06-28 05:20:20"
+    }
+  },
+  {
+    "model": "users.Profile",
+    "pk": 6,
+    "fields": {
+      "user_id" : 6,
+      "username": "david",
+      "first_name": "David",
+      "last_name": "Grinberg",
+      "email": "david@egrinberg.com",
+      "profile_image_path": "/avatars/default.png",
+      "is_activated": true,
+      "is_new": false,
+      "is_confirmed": true,
+      "is_cleared":true,
+      "date_joined": "2020-06-28 05:20:20"
+    }
+  },
+  {
+    "model": "users.Profile",
+    "pk": 7,
+    "fields": {
+      "user_id" : 7,
+      "username": "webmyattorney",
+      "first_name": "Best Immigration",
+      "last_name": "and Deportation",
+      "email": "webmyattorney@gmail.com",
+      "profile_image_path": "/avatars/segal_full.jpg",
+      "is_activated": true,
+      "is_new": false,
+      "is_confirmed": true,
+      "is_cleared":true,
+      "date_joined": "2020-06-28 05:20:20"
+    }
+  },
+  {
+    "model": "users.Profile",
+    "pk": 8,
+    "fields": {
+      "user_id" : 8,
+      "username": "nick",
+      "first_name": "Nicholas",
+      "last_name": "Ferrell",
+      "email": "austinferrell89@gmail.com",
+      "profile_image_path": "/avatars/default.png",
+      "is_activated": true,
+      "is_new": false,
+      "is_confirmed": true,
+      "is_cleared":true,
+      "date_joined": "2020-06-28 05:20:20"
+    }
+  },
+  {
+    "model": "users.Profile",
+    "pk": 9,
+    "fields": {
+      "user_id" : 9,
+      "username": "azhurba",
+      "first_name": "Alina",
+      "last_name": "Zhurba",
+      "email": "zhurba.alina@gmail.com",
+      "profile_image_path": "/avatars/default.png",
+      "is_activated": true,
+      "is_new": false,
+      "is_confirmed": true,
+      "is_cleared":true,
+      "date_joined": "2020-06-28 05:20:20"
+    }
+  },
+  {
+    "model": "users.Profile",
+    "pk": 10,
+    "fields": {
+      "user_id" : 10,
+      "username": "gskgrp",
+      "first_name": "Alexander J.",
+      "last_name": "Segal",
+      "email": "gskgrp@gmail.com",
+      "profile_image_path": "/avatars/segal_full.jpg",
+      "is_activated": true,
+      "is_new": false,
+      "is_confirmed": true,
+      "is_cleared":true,
+      "date_joined": "2020-06-28 05:20:20"
+    }
+  },
+  {
+    "model": "users.Profile",
+    "pk": 11,
+    "fields": {
+      "user_id" : 11,
+      "username": "masatrian",
+      "first_name": "Melsida",
+      "last_name": "Asatrian",
+      "email": "masatrian@gmail.com",
+      "profile_image_path": "/avatars/default.png",
+      "is_activated": true,
+      "is_new": false,
+      "is_confirmed": true,
+      "is_cleared":true,
+      "date_joined": "2020-06-28 05:20:20"
+    }
+  }
+]

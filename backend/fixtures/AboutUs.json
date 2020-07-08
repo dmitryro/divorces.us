@@ -1,0 +1,12 @@
+[
+  {
+    "model": "users.AboutUs",
+    "pk": 1,
+    "fields": {
+        "title": "About Us",
+        "subtitle": "Grinberg and Segal Family Law Division",
+        "body": "The Law Offices of Grinberg, PLLC, is located in the heart of Manhattan's Financial District. &nbsp;Our Family Law Division consists of highly experienced and reputable lawyers dedicated to representing clients in all areas of New York and New Jersey family law. We are dedicated to provide you with personal attention and professional legal service to help you achieve your goals. &nbsp;In addition to our family law services, our law firm is known throughout the United States for its work in all areas of U.S. immigration law. These dual areas of expertise allow us to represent some clients simultaneously in the New York and New Jersey family law and U.S. immigration law contexts.",
+        "avatar": "avatars/gas2.jpg"
+    }
+  }
+]

@@ -1,0 +1,184 @@
+/*eslint-disable*/
+import React from "react";
+// react components for routing our app without refresh
+import { Link } from "gatsby";
+
+// @material-ui/core components
+import withStyles from "@material-ui/core/styles/withStyles";
+import List from "@material-ui/core/List";
+import ListItem from "@material-ui/core/ListItem";
+import Tooltip from "@material-ui/core/Tooltip";
+
+// @material-ui/icons
+import { Apps, CloudDownload } from "@material-ui/icons";
+
+// React icons
+import { FaTwitter, FaFacebook, FaInstagram } from 'react-icons/fa';
+
+// core components
+import CustomDropdown from "components/CustomDropdown/CustomDropdown.jsx";
+import Button from "components/CustomButtons/Button.jsx";
+
+import headerLinksStyle from "assets/jss/material-kit-react/components/headerLinksStyle.jsx";
+
+function HeaderLinks({ ...props }) {
+  const { classes } = props;
+  return (
+    <List className={classes.list}>
+      <ListItem className={classes.listItem}>
+        <Button
+          href="/"
+          color="transparent"
+          target="_blank"
+          className={classes.navLink}
+        > Home
+        </Button>        
+      </ListItem>
+      <ListItem className={classes.listItem}>
+        <Button
+          href="/about"
+          color="transparent"
+          target="_blank"
+          className={classes.navLink}
+        > About
+        </Button>
+      </ListItem>
+      <ListItem className={classes.listItem}>
+        <Button
+          href="/"
+          color="transparent"
+          target="_blank"
+          className={classes.navLink}
+        > Pricing
+        </Button>
+      </ListItem>
+      <ListItem className={classes.listItem}>
+        <CustomDropdown
+          noLiPadding
+          buttonText="Services"
+          buttonProps={{
+            className: classes.navLink,
+            color: "transparent"
+          }}
+          buttonIcon={Apps}
+          dropdownList={[
+            <Link to="/" className={classes.dropdownLink}>
+              Adoption
+            </Link>,
+            <a
+              href="https://creativetimofficial.github.io/material-kit-react/#/documentation"
+              target="_blank"
+              className={classes.dropdownLink}
+            >
+              Agreements
+            </a>,
+            <Link to="/contested" className={classes.dropdownLink}>
+              Contested Divorce
+            </Link>,
+            <Link to="/custody" className={classes.dropdownLink}>
+              Child Custody
+            </Link>,
+
+            <Link to="/support" className={classes.dropdownLink}>
+             Child Support
+            </Link>,
+   
+            <Link to="/violence" className={classes.dropdownLink}>
+             Domestic Violence
+            </Link>,
+   
+            <Link to="/consultation" className={classes.dropdownLink}>
+            Consultation
+            </Link>,
+
+            <Link to="/mediation" className={classes.dropdownLink}>
+            Mediation
+            </Link>,
+            
+            <Link to="/property" className={classes.dropdownLink}>
+             Property
+            </Link>,
+            
+            <Link to="/protection" className={classes.dropdownLink}>
+             Protection
+            </Link>,
+            
+            <Link to="/spousal" className={classes.dropdownLink}>
+            Spousal Support
+            </Link>,
+            
+            <Link to="/uncontested" className={classes.dropdownLink}>
+            Uncontested Divorce
+            </Link>
+            
+          ]}
+        />
+      </ListItem>
+      <ListItem className={classes.listItem}>
+        <Button
+          href="https://www.creative-tim.com/product/material-kit-react"
+          color="transparent"
+          target="_blank"
+          className={classes.navLink}
+        >
+          <CloudDownload className={classes.icons} /> Download
+        </Button>
+      </ListItem>
+      <ListItem className={classes.listItem}>
+        <Tooltip
+          id="instagram-twitter"
+          title="Follow us on twitter"
+          placement={typeof window !== 'undefined' && window.innerWidth > 959 ? "top" : "left"}
+          classes={{ tooltip: classes.tooltip }}
+        >
+          <Button
+            href="https://twitter.com/CreativeTim"
+            target="_blank"
+            color="transparent"
+            className={classes.navLink}
+          >
+            <FaTwitter/>
+          </Button>
+        </Tooltip>
+      </ListItem>
+ 
+     <ListItem className={classes.listItem}>
+        <Tooltip
+          id="instagram-facebook"
+          title="Follow us on facebook"
+          placement={typeof window !== 'undefined' && window.innerWidth > 959 ? "top" : "left"}
+          classes={{ tooltip: classes.tooltip }}
+        >
+          <Button
+            color="transparent"
+            href="https://www.facebook.com/CreativeTim"
+            target="_blank"
+            className={classes.navLink}
+          >
+            <FaFacebook/>
+          </Button>
+        </Tooltip>
+      </ListItem>
+      <ListItem className={classes.listItem}>
+        <Tooltip
+          id="instagram-tooltip"
+          title="Follow us on instagram"
+          placement={typeof window !== 'undefined' && window.innerWidth > 959 ? "top" : "left"}
+          classes={{ tooltip: classes.tooltip }}
+        >
+          <Button
+            color="transparent"
+            href="https://www.instagram.com/CreativeTimOfficial"
+            target="_blank"
+            className={classes.navLink}
+          >
+            <FaInstagram/>
+          </Button>
+        </Tooltip>
+      </ListItem>
+
+    </List>
+  );
+}
+
+export default withStyles(headerLinksStyle)(HeaderLinks);

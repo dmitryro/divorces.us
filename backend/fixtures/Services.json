@@ -1,0 +1,145 @@
+[
+  {
+    "model": "gui.Service",
+    "pk": 1,
+    "fields": {
+      "title": "Adoption",
+      "statement": "The gift of family",
+      "description": "",
+      "time_published": "2018-02-20T11:52:39.054395-05:00",
+      "nick": "adoption"
+    }
+  },
+  {
+    "model": "gui.Service",
+    "pk": 2,
+    "fields": {
+      "title": "Agreements",
+      "statement": "Crafting valid agreements before or after marriage",
+      "description": "",
+      "service": "servces/Cohabitation-Agreement.jpg",
+      "time_published": "2018-02-20T11:52:39.054395-05:00",
+      "nick": "agreements"
+    }
+  },
+  {
+    "model": "gui.Service",
+    "pk": 3,
+    "fields": {
+      "title": "Contested Divorce",
+      "statement": "Contested Divorces - Where the parties disagree",
+      "description": "",
+      "service": "servces/contested.jpeg",
+      "time_published": "2018-02-20T11:52:39.054395-05:00",
+      "nick": "contested"
+    }
+  },
+  {
+    "model": "gui.Service",
+    "pk": 4,
+    "fields": {
+      "title": "Child Custody",
+      "statement": "Child Custody Statement",
+      "description": "",
+      "service": "servces/child_custody.jpg",
+      "time_published": "2018-02-20T11:52:39.054395-05:00",
+      "nick": "custody"
+    }
+  },
+  {
+    "model": "gui.Service",
+    "pk": 5,
+    "fields": {
+      "title": "Child Support",
+      "statement": "Child Support Statement",
+      "description": "",
+      "service": "servces/child_support.jpg",
+      "time_published": "2018-02-20T11:52:39.054395-05:00",
+      "nick": "childsupport"
+    }
+  },
+  {
+    "model": "gui.Service",
+    "pk": 6,
+    "fields": {
+      "title": "Domestic Violence",
+      "statement": "Domestic Violence Statement",
+      "description": "",
+      "service": "servces/domestic.jpg",
+      "time_published": "2018-02-20T11:52:39.054395-05:00",
+      "nick": "domesticviolence"
+    }
+  },
+  {
+    "model": "gui.Service",
+    "pk": 7,
+    "fields": {
+      "title": "Consultation",
+      "statement": "Consultation Statement.",
+      "description": "",
+      "service": "servces/free_consult.jpg",
+      "time_published": "2018-02-20T11:52:39.054395-05:00",
+      "nick": "consultation"
+    }
+  },
+  {
+    "model": "gui.Service",
+    "pk": 8,
+    "fields": {
+      "title": "Mediation",
+      "statement": "Mediation Statement.",
+      "description": "",
+      "service": "servces/mediation.jpg",
+      "time_published": "2018-02-20T11:52:39.054395-05:00",
+      "nick": "mediation"
+    }
+  },
+  {
+    "model": "gui.Service",
+    "pk": 9,
+    "fields": {
+      "title": "Property",
+      "statement": "Property Statement.",
+      "description": "",
+      "service": "servces/property.jpg",
+      "time_published": "2018-02-20T11:52:39.054395-05:00",
+      "nick": "property"
+    }
+  },
+  {
+    "model": "gui.Service",
+    "pk": 10,
+    "fields": {
+      "title": "Protection",
+      "statement": "Protection Statement.",
+      "description": "",
+      "service": "servces/protection.jpg",
+      "time_published": "2018-02-20T11:52:39.054395-05:00",
+      "nick": "protection"
+    }
+  },
+  {
+    "model": "gui.Service",
+    "pk": 11,
+    "fields": {
+      "title": "Spousal Support",
+      "statement": "Spousal Support, Alimony Statement.",
+      "description": "",
+      "service": "servces/alimony_two.jpg",
+      "time_published": "2018-02-20T11:52:39.054395-05:00",
+      "nick": "spousalsupport"
+    }
+  },
+  {
+    "model": "gui.Service",
+    "pk": 12,
+    "fields": {
+      "title": "Uncontested Divorce",
+      "statement": "Uncontested Divorce is the divorce by mutual agreement.",
+      "description": "",
+      "service": "servces/uncontested.jpg",
+      "time_published": "2018-02-20T11:52:39.054395-05:00",
+      "nick": "uncontested"
+    }
+  }
+]

@@ -1,0 +1,522 @@
+[
+  {
+    "model": "users.StateProvince",
+    "pk": 1,
+    "fields": {
+        "name": "Alabama",
+        "abbreviation": "AL"
+    }
+  },
+  {
+    "model": "users.StateProvince",
+    "pk": 2,
+    "fields": {
+        "name": "Alaska",
+        "abbreviation": "AK"
+    }
+  },
+  {
+    "model": "users.StateProvince",
+    "pk": 3,
+    "fields": {
+        "name": "Arizona",
+        "abbreviation": "AZ"
+    }
+  },
+  {
+    "model": "users.StateProvince",
+    "pk": 4,
+    "fields": {
+        "name": "Arkansas",
+        "abbreviation": "AR"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 5,
+    "fields": {
+        "name": "Alberta",
+        "abbreviation": "AB"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 6,
+    "fields": {
+        "name": "British Columbia",
+        "abbreviation": "BC"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 7,
+    "fields": {
+        "name": "California",
+        "abbreviation": "CA"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 8,
+    "fields": {
+        "name": "Colorado",
+        "abbreviation": "CO"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 9,
+    "fields": {
+        "name": "Connecticut",
+        "abbreviation": "CT"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 10,
+    "fields": {
+        "name": "District Columbia",
+        "abbreviation": "DC"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 11,
+    "fields": {
+        "name": "Delaware",
+        "abbreviation": "DE"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 12,
+    "fields": {
+        "name": "Florida",
+        "abbreviation": "FL"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 13,
+    "fields": {
+        "name": "Georgia",
+        "abbreviation": "GA"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 14,
+    "fields": {
+        "name": "Hawaii",
+        "abbreviation": "HI"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 15,
+    "fields": {
+        "name": "Idaho",
+        "abbreviation": "ID"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 16,
+    "fields": {
+        "name": "Illinois",
+        "abbreviation": "IL"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 17,
+    "fields": {
+        "name": "Indiana",
+        "abbreviation": "IN"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 18,
+    "fields": {
+        "name": "Iowa",
+        "abbreviation": "IA"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 19,
+    "fields": {
+        "name": "Kansas",
+        "abbreviation": "KS"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 20,
+    "fields": {
+        "name": "Kentucky",
+        "abbreviation": "KY"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 21,
+    "fields": {
+        "name": "Louisiana",
+        "abbreviation": "LA"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 22,
+    "fields": {
+        "name": "Labrador",
+        "abbreviation": "LB"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 23,
+    "fields": {
+        "name": "Maine",
+        "abbreviation": "ME"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 24,
+    "fields": {
+        "name": "Manitoba",
+        "abbreviation": "MB"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 25,
+    "fields": {
+        "name": "Maryland",
+        "abbreviation": "MD"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 26,
+    "fields": {
+        "name": "Massachusetts",
+        "abbreviation": "MA"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 27,
+    "fields": {
+        "name": "Michigan",
+        "abbreviation": "MI"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 28,
+    "fields": {
+        "name": "Minnesota",
+        "abbreviation": "MN"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 29,
+    "fields": {
+        "name": "Mississippi",
+        "abbreviation": "MS"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 30,
+    "fields": {
+        "name": "Missouri",
+        "abbreviation": "MO"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 31,
+    "fields": {
+        "name": "Montana",
+        "abbreviation": "MT"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 32,
+    "fields": {
+        "name": "New Brunswick",
+        "abbreviation": "NB"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 33,
+    "fields": {
+        "name": "Nebraska",
+        "abbreviation": "NE"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 34,
+    "fields": {
+        "name": "Newfoundland",
+        "abbreviation": "NF"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 35,
+    "fields": {
+        "name": "Nevada",
+        "abbreviation": "NV"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 36,
+    "fields": {
+        "name": "New Hampshire",
+        "abbreviation": "NH"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 37,
+    "fields": {
+        "name": "New Jersey",
+        "abbreviation": "NJ"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 38,
+    "fields": {
+        "name": "New Mexico",
+        "abbreviation": "NM"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 39,
+    "fields": {
+        "name": "New York",
+        "abbreviation": "NY"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 40,
+    "fields": {
+        "name": "North Carolina",
+        "abbreviation": "NC"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 41,
+    "fields": {
+        "name": "North Dakota",
+        "abbreviation": "ND"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 42,
+    "fields": {
+        "name": "Nova Scotia",
+        "abbreviation": "NS"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 43,
+    "fields": {
+        "name": "Nunavut",
+        "abbreviation": "NU"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 44,
+    "fields": {
+        "name": "North West Terr.",
+        "abbreviation": "NW"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 45,
+    "fields": {
+        "name": "Ohio",
+        "abbreviation": "OH"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 46,
+    "fields": {
+        "name": "Oklahoma",
+        "abbreviation": "OK"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 47,
+    "fields": {
+        "name": "Ontario",
+        "abbreviation": "ON"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 48,
+    "fields": {
+        "name": "Oregon",
+        "abbreviation": "OR"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 49,
+    "fields": {
+        "name": "Pennsylvania",
+        "abbreviation": "PA"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 50,
+    "fields": {
+        "name": "Prince Edward Is.",
+        "abbreviation": "PE"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 51,
+    "fields": {
+        "name": "Quebec",
+        "abbreviation": "QC"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 52,
+    "fields": {
+        "name": "Rhode Island",
+        "abbreviation": "RI"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 53,
+    "fields": {
+        "name": "Saskatchewen",
+        "abbreviation": "SK"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 54,
+    "fields": {
+        "name": "South Carolina",
+        "abbreviation": "SC"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 55,
+    "fields": {
+        "name": "South Dakota",
+        "abbreviation": "SD"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 56,
+    "fields": {
+        "name": "Tennessee",
+        "abbreviation": "TN"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 57,
+    "fields": {
+        "name": "Texas",
+        "abbreviation": "TX"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 58,
+    "fields": {
+        "name": "Utah",
+        "abbreviation": "UT"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 59,
+    "fields": {
+        "name": "Vermont",
+        "abbreviation": "VT"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 60,
+    "fields": {
+       "name": "Virginia",
+        "abbreviation": "VA" 
+   }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 61,
+    "fields": {
+        "name": "Washington",
+        "abbreviation": "WA"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 62,
+    "fields": {
+        "name": "West Virginia",
+        "abbreviation": "WV"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 63,
+    "fields": {
+        "name": "Wisconsin",
+        "abbreviation": "WI"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 64,
+    "fields": {
+        "name": "Wyoming",
+        "abbreviation": "WY"
+    }
+  },
+  { 
+    "model": "users.StateProvince",
+    "pk": 65,
+    "fields": {
+        "name": "Yukon",
+        "abbreviation": "YU"
+   }
+  }
+]

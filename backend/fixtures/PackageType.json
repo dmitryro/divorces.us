@@ -1,0 +1,26 @@
+[
+  {
+    "model": "services.PackageType",
+    "pk": 1,
+    "fields": {
+        "package_type": "Contested",
+        "code": "CONTESTED"
+    }
+  },
+  {
+    "model": "services.PackageType",
+    "pk": 2,
+    "fields": {
+        "package_type": "Uncontested",
+        "code": "UNCONTESTED"
+    }
+  },
+  {
+    "model": "services.PackageType",
+    "pk": 3,
+    "fields": {
+        "package_type": "Other",
+        "code": "OTHER"
+    }
+  }
+]

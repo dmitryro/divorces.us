@@ -1,0 +1,17 @@
+.login {
+    margin-left:'0.5em';
+    margin-right: '0.5em';
+    padding-top: '0.1em';
+    border: '1px solid #CFCECE';
+    border-radius: '5px';
+    width: '5.0em';
+    height:'2.4em';
+    text-align : 'center';
+    font-size:'0.9em';
+}
+
+.login:hover {
+    cursor: 'pointer';
+    background: '#CFCECE';
+    color: '#FFFFFF';
+}

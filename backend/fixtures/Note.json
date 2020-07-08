@@ -1,0 +1,35 @@
+[
+  {
+    "model": "services.PackageNote",
+    "pk": 1,
+    "fields": {
+      "note": "Court filing fees not included",
+      "package_id": 22 
+    }
+  },
+  {
+    "model": "services.PackageNote",
+    "pk": 2,
+    "fields": {
+      "note": "Additional Fees of Defendant Needs to be Served by Professional Process Server: Defendant is in NY/NJ ($500); Defendant is Outside of NY/NJ ($1750)",
+      "package_id": 22
+    }
+  },
+  {
+    "model": "services.PackageNote",
+    "pk": 3,
+    "fields": {
+      "note": "Court filing fees not included",
+      "package_id": 21
+    }
+  },
+  {
+    "model": "services.PackageNote",
+    "pk": 4,
+    "fields": {
+      "note": "Additional Fees of Defendant Needs to be Served by Professional Process Server: Defendant is in NY/NJ ($500); Defendant is Outside of NY/NJ ($1750)",
+      "package_id": 21
+    }
+  }
+
+]

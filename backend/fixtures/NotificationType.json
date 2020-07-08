@@ -1,0 +1,10 @@
+[
+  {
+    "model": "messaging.NotificationType",
+    "pk": 1,
+    "fields": {
+        "notification_code": "INTERNAL",
+        "notification_type": "INTRN"
+    }
+  }
+]

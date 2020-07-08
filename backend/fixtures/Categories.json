@@ -1,0 +1,42 @@
+[
+  {
+    "model": "blog.Category",
+    "pk": 1,
+    "fields": {
+      "name" : "Miscelaneous",
+      "code": "MISC"
+    }
+  },
+  {
+    "model": "blog.Category",
+    "pk": 2,
+    "fields": {
+      "name" : "Contested Divorce",
+      "code": "CTDV" 
+    }
+  },
+  {
+    "model": "blog.Category",
+    "pk": 3,
+    "fields": {
+      "name" : "Uncontested Divorce",
+      "code": "UCDV" 
+    }
+  },
+  {
+    "model": "blog.Category",
+    "pk": 4,
+    "fields": {
+      "name" : "Domestic Violence",
+      "code": "DMV" 
+    }
+  },
+  {
+    "model": "blog.Category",
+    "pk": 5,
+    "fields": {
+      "name" : "Spousal Protection",
+      "code": "SPP" 
+    }
+  }
+]

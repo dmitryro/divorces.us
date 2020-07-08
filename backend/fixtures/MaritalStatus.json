@@ -1,0 +1,42 @@
+[
+  {
+    "model": "consult.MaritalStatus",
+    "pk": 1,
+    "fields": {
+        "status": "Single",
+        "code": "SG"
+    }
+  },
+  {
+    "model": "consult.MaritalStatus",
+    "pk": 2,
+    "fields": {
+        "status": "Married",
+        "code": "MD"
+    }
+  },
+  {
+    "model": "consult.MaritalStatus",
+    "pk": 3,
+    "fields": {
+        "status": "Unmarried Partners",
+        "code": "UP"
+    }
+  },
+  {
+    "model": "consult.MaritalStatus",
+    "pk": 4,
+    "fields": {
+        "status": "Divorced",
+        "code": "DV"
+    }
+  },
+  {
+    "model": "consult.MaritalStatus",
+    "pk": 5,
+    "fields": {
+        "status": "Widowed",
+        "code": "WD"
+    }
+  }
+]

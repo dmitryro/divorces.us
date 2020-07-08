@@ -1,0 +1,18 @@
+[
+  {
+    "model": "gui.Country",
+    "pk": 1,
+    "fields": {
+        "name": "United States",
+        "code": "US"
+    }
+  },
+  {
+    "model": "gui.Country",
+    "pk": 2,
+    "fields": {
+        "name": "Canada",
+        "code": "CA"
+    }
+  }
+]

@@ -1,0 +1,167 @@
+[
+  {
+    "model": "services.Service",
+    "pk": 1,
+    "fields": {
+        "title": "Eligibility Determiniation",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 2,
+    "fields": {
+        "title": "Comprehensive Filing Instructions",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 3,
+    "fields": {
+        "title": "Serving Instructions",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 4,
+    "fields": {
+        "title": "Calculate Child Support",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 5,
+    "fields": {
+        "title": "Create a Parenting Plan",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 6,
+    "fields": {
+        "title": "Prepare Alimony Papers",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 7,
+    "fields": {
+        "title": "Free Name Change Application",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 8,
+    "fields": {
+        "title": "All Completed Forms Available Instantly*",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 9,
+    "fields": {
+        "title": "Unlimited Live Chat and Telephone Support",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 10,
+    "fields": {
+        "title": "Ability to Instantly Edit Your Data Onilne",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 11,
+    "fields": {
+        "title": "Unlimited Revisions to Your Forms",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 12,
+    "fields": {
+        "title": "100% Court Approval Money Back Guarantee",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 13,
+    "fields": {
+        "title": "Affordable Costs for Divorce Preparation",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 14,
+    "fields": {
+        "title": "Unlimited Customer Support",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  },
+  {
+    "model": "services.Service",
+    "pk": 15,
+    "fields": {
+        "title": "Adoption",
+        "fees": 0.0,
+        "price": 0.0,
+        "is_available": true,
+        "avatar": "/media/avatars/image-new.png"
+    }
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "model": "gui.Milestone",
+    "pk": 1,
+    "fields": {
+        "title": "Period One",
+        "year": "2003",
+        "body": "Alexander J. Segal, Esq, and Eliza Grinberg, Esq, founded The Law Offices of Grinberg, PLLC."
+    }
+  },
+  {
+    "model": "gui.Milestone",
+    "pk": 2,
+    "fields": {
+        "title": "Period Two",
+        "year": "2005",
+        "body": "Wendy Barlow, Esq, joined the team at Grinberg & Segal."
+    }
+  },
+  {
+    "model": "gui.Milestone",
+    "pk": 3,
+    "fields": {
+        "title": "Period Three",
+        "year": "2015",
+        "body": "Our long-time and experienced paralegal, Melsida Asatrian, became a lawyer in New Jersey. She was subsequently licensed to practice law in New York in 2016."
+    }
+  },
+  {
+    "model": "gui.Milestone",
+    "pk": 4,
+    "fields": {
+        "title": "Period Four",
+        "year": "2016",
+        "body": "The Law Offices of Grinberg & Segal, PLLC, moved to its current address in the heart of Manhattan’s financial district at 11 Hanover Sq, 10th Fl., New York, NY, 10005"
+    }
+  }
+]

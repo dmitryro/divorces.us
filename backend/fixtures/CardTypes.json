@@ -1,0 +1,34 @@
+[
+  {
+    "model": "payments.CardType",
+    "pk": 1,
+    "fields": {
+        "card": "AMEX",
+        "code": "AMEX"
+    }
+  },
+  {
+    "model": "payments.CardType",
+    "pk": 2,
+    "fields": {
+        "card": "VISA",
+        "code": "VISA"
+    }
+  },
+  {
+    "model": "payments.CardType",
+    "pk": 3,
+    "fields": {
+        "card": "Mastercard",
+        "code": "MASTERCARD"
+    }
+  },
+  {
+    "model": "payments.CardType",
+    "pk": 4,
+    "fields": {
+        "card": "DINERS",
+        "code": "DINERS"
+    }
+  }
+]

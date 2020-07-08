@@ -1,0 +1,29 @@
+[
+  {
+    "model": "gui.ConsultationType",
+    "pk": 1,
+    "fields": {
+        "title": "45 minute",
+        "description": "I want to schedule a 45-minute long paid general family law consultation in person, on Skype, by phone or via GoogleTalk (I understand that the consultation's cost is $160.00.)",
+        "price": 160.0
+    }
+  },
+  {
+    "model": "gui.ConsultationType",
+    "pk": 2,
+    "fields": {
+        "title": "15-minute",
+        "description": "I want to schedule a 15-minute long paid uncontested divorce consultation in person, on Skype, by phone or via GoogleTalk (I understand that the consultation's cost is $49.00.)",
+        "price": 49.0
+    }
+  },
+  {
+    "model": "gui.ConsultationType",
+    "pk": 3,
+    "fields": {
+        "title": "Domestic Violence",
+        "description": "I'm a domestic violence victim looking for a free 15-minute long consultation.",
+        "price": 0.0
+    }
+  }
+]

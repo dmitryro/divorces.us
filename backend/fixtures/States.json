@@ -1,0 +1,522 @@
+[
+  {
+    "model": "gui.State",
+    "pk": 1,
+    "fields": {
+        "state": "Alabama",
+        "code": "AL"
+    }
+  },
+  {
+    "model": "gui.State",
+    "pk": 2,
+    "fields": {
+        "state": "Alaska",
+        "code": "AK"
+    }
+  },
+  {
+    "model": "gui.State",
+    "pk": 3,
+    "fields": {
+        "state": "Arizona",
+        "code": "AZ"
+    }
+  },
+  {
+    "model": "gui.State",
+    "pk": 4,
+    "fields": {
+        "state": "Arkansas",
+        "code": "AR"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 5,
+    "fields": {
+        "state": "Alberta",
+        "code": "AB"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 6,
+    "fields": {
+        "state": "British Columbia",
+        "code": "BC"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 7,
+    "fields": {
+        "state": "California",
+        "code": "CA"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 8,
+    "fields": {
+        "state": "Colorado",
+        "code": "CO"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 9,
+    "fields": {
+        "state": "Connecticut",
+        "code": "CT"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 10,
+    "fields": {
+        "state": "District Columbia",
+        "code": "DC"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 11,
+    "fields": {
+        "state": "Delaware",
+        "code": "DE"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 12,
+    "fields": {
+        "state": "Florida",
+        "code": "FL"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 13,
+    "fields": {
+        "state": "Georgia",
+        "code": "GA"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 14,
+    "fields": {
+        "state": "Hawaii",
+        "code": "HI"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 15,
+    "fields": {
+        "state": "Idaho",
+        "code": "ID"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 16,
+    "fields": {
+        "state": "Illinois",
+        "code": "IL"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 17,
+    "fields": {
+        "state": "Indiana",
+        "code": "IN"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 18,
+    "fields": {
+        "state": "Iowa",
+        "code": "IA"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 19,
+    "fields": {
+        "state": "Kansas",
+        "code": "KS"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 20,
+    "fields": {
+        "state": "Kentucky",
+        "code": "KY"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 21,
+    "fields": {
+        "state": "Louisiana",
+        "code": "LA"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 22,
+    "fields": {
+        "state": "Labrador",
+        "code": "LB"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 23,
+    "fields": {
+        "state": "Maine",
+        "code": "ME"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 24,
+    "fields": {
+        "state": "Manitoba",
+        "code": "MB"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 25,
+    "fields": {
+        "state": "Maryland",
+        "code": "MD"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 26,
+    "fields": {
+        "state": "Massachusetts",
+        "code": "MA"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 27,
+    "fields": {
+        "state": "Michigan",
+        "code": "MI"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 28,
+    "fields": {
+        "state": "Minnesota",
+        "code": "MN"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 29,
+    "fields": {
+        "state": "Mississippi",
+        "code": "MS"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 30,
+    "fields": {
+        "state": "Missouri",
+        "code": "MO"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 31,
+    "fields": {
+        "state": "Montana",
+        "code": "MT"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 32,
+    "fields": {
+        "state": "New Brunswick",
+        "code": "NB"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 33,
+    "fields": {
+        "state": "Nebraska",
+        "code": "NE"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 34,
+    "fields": {
+        "state": "Newfoundland",
+        "code": "NF"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 35,
+    "fields": {
+        "state": "Nevada",
+        "code": "NV"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 36,
+    "fields": {
+        "state": "New Hampshire",
+        "code": "NH"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 37,
+    "fields": {
+        "state": "New Jersey",
+        "code": "NJ"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 38,
+    "fields": {
+        "state": "New Mexico",
+        "code": "NM"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 39,
+    "fields": {
+        "state": "New York",
+        "code": "NY"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 40,
+    "fields": {
+        "state": "North Carolina",
+        "code": "NC"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 41,
+    "fields": {
+        "state": "North Dakota",
+        "code": "ND"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 42,
+    "fields": {
+        "state": "Nova Scotia",
+        "code": "NS"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 43,
+    "fields": {
+        "state": "Nunavut",
+        "code": "NU"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 44,
+    "fields": {
+        "state": "North West Terr.",
+        "code": "NW"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 45,
+    "fields": {
+        "state": "Ohio",
+        "code": "OH"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 46,
+    "fields": {
+        "state": "Oklahoma",
+        "code": "OK"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 47,
+    "fields": {
+        "state": "Ontario",
+        "code": "ON"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 48,
+    "fields": {
+        "state": "Oregon",
+        "code": "OR"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 49,
+    "fields": {
+        "state": "Pennsylvania",
+        "code": "PA"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 50,
+    "fields": {
+        "state": "Prince Edward Is.",
+        "code": "PE"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 51,
+    "fields": {
+        "state": "Quebec",
+        "code": "QC"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 52,
+    "fields": {
+        "state": "Rhode Island",
+        "code": "RI"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 53,
+    "fields": {
+        "state": "Saskatchewen",
+        "code": "SK"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 54,
+    "fields": {
+        "state": "South Carolina",
+        "code": "SC"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 55,
+    "fields": {
+        "state": "South Dakota",
+        "code": "SD"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 56,
+    "fields": {
+        "state": "Tennessee",
+        "code": "TN"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 57,
+    "fields": {
+        "state": "Texas",
+        "code": "TX"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 58,
+    "fields": {
+        "state": "Utah",
+        "code": "UT"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 59,
+    "fields": {
+        "state": "Vermont",
+        "code": "VT"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 60,
+    "fields": {
+       "state": "Virginia",
+        "code": "VA" 
+   }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 61,
+    "fields": {
+        "state": "Washington",
+        "code": "WA"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 62,
+    "fields": {
+        "state": "West Virginia",
+        "code": "WV"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 63,
+    "fields": {
+        "state": "Wisconsin",
+        "code": "WI"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 64,
+    "fields": {
+        "state": "Wyoming",
+        "code": "WY"
+    }
+  },
+  { 
+    "model": "gui.State",
+    "pk": 65,
+    "fields": {
+        "state": "Yukon",
+        "code": "YU"
+   }
+  }
+]

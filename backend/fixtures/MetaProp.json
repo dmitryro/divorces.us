@@ -1,0 +1,15 @@
+[
+  {
+    "model": "metaprop.MetaProp",
+    "pk": 1,
+    "fields": {
+        "title": "SEO Meta Properties",
+        "keywords": "search,find",
+        "description": "Some Description",
+        "author": "Dmitry",
+        "analytics": "UI-2020201",
+        "h1header": "SEO Properties",
+        "content": "Some content"
+    }
+  }
+]

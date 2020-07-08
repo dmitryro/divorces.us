@@ -1,0 +1,90 @@
+[
+  {
+    "model": "messaging.MessagingSettings",
+    "pk": 1,
+    "fields": {
+        "duplicate_private": true,
+        "user_id": 1
+    }
+  },
+  {
+    "model": "messaging.MessagingSettings",
+    "pk": 2,
+    "fields": {
+        "duplicate_private": true,
+        "user_id": 2
+    }
+  },
+  {
+    "model": "messaging.MessagingSettings",
+    "pk": 3,
+    "fields": { 
+        "duplicate_private": true,
+        "user_id": 3
+    }
+  },
+  {
+    "model": "messaging.MessagingSettings",
+    "pk": 4,
+    "fields": {
+        "duplicate_private": true,
+        "user_id": 4
+    }
+  },
+  {
+    "model": "messaging.MessagingSettings",
+    "pk": 5,
+    "fields": {
+        "duplicate_private": true,
+        "user_id": 5
+    }
+  },
+  {
+    "model": "messaging.MessagingSettings",
+    "pk": 6,
+    "fields": {
+        "duplicate_private": true,
+        "user_id": 6
+    }
+  },
+  {
+    "model": "messaging.MessagingSettings",
+    "pk": 7,
+    "fields": {
+        "duplicate_private": true,
+        "user_id": 7
+    }
+  },
+  {
+    "model": "messaging.MessagingSettings",
+    "pk": 8,
+    "fields": {
+        "duplicate_private": true,
+        "user_id": 8
+    }
+  },
+  {
+    "model": "messaging.MessagingSettings",
+    "pk": 9,
+    "fields": {
+        "duplicate_private": true,
+        "user_id": 9
+    }
+  },
+  {
+    "model": "messaging.MessagingSettings",
+    "pk": 10,
+    "fields": {
+        "duplicate_private": true,
+        "user_id": 10
+    }
+  },
+  {
+    "model": "messaging.MessagingSettings",
+    "pk": 11,
+    "fields": {
+        "duplicate_private": true,
+        "user_id": 11
+    }
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "model": "services.Package",
+    "pk": 1,
+    "fields": {
+        "title": "Prenuptual Agreement (Document Review + 30 Minute Phone Call)",
+        "fees": 0.0,
+        "price": 250.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 37,
+        "package_type_id": 3,
+        "description": "<p><span style=\" white-space: pre-wrap;\">Prenuptual Agreement (Document Review + 30 Minute Phone Call)<span rel=\"pastemarkerend\" id=\"pastemarkerend_62199\"></span></span><br>\r\n</p>"
+    }
+  },
+  {
+    "model": "services.Package",
+    "pk": 2,
+    "fields": {
+        "title": "Postnuptual Agreement (Document Review + 30 Minute Phone Call)",
+        "fees": 0.0,
+        "price": 250.0,
+        "is_available": true,
+        "services": [1],
+        "state_id": 37,
+        "package_type_id": 3,
+        "description": "<p><span style=\" white-space: pre-wrap;\">Postnuptual Agreement (Document Review + 30 Minute Phone Call)<span rel=\"pastemarkerend\" id=\"pastemarkerend_67065\"></span></span><br>\r\n</p>"
+    }
+  },
+  {
+    "model": "services.Package",
+    "pk": 3,
+    "fields": {
+        "title": "Postnuptual Agreement (Document Review + 30 Minute Phone Call)",
+        "fees": 0.0,
+        "price": 250.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 39,
+        "package_type_id": 3,
+        "description":"<p>Postnuptual Agreement (Document Review + 30 Minute Phone Call)</p>"
+     }
+  },
+  {
+    "model": "services.Package",
+    "pk": 4,
+    "fields": {
+        "title": "Separation Agreement (Document Review + 30 Minute Phone Call)",
+        "fees": 0.0,
+        "price": 250.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 39,
+        "package_type_id": 3,
+        "description": "<p>Separation Agreement (Document Review + 30 Minute Phone Call)</p>"
+     }
+  },
+  {
+    "model": "services.Package",
+    "pk": 5,
+    "fields": {
+        "title": "Separation Agreement (Document Review + 30 Minute Phone Call)",
+        "fees": 0.0,
+        "price": 250.0, 
+        "is_available": true, 
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 37,
+        "package_type_id": 3,
+        "description": "<p>Separation Agreement (Document Review + 30 Minute Phone Call)</p>"
+     }
+  },
+  {
+    "model": "services.Package",
+    "pk": 6,
+    "fields": {
+        "title": "Prenuptual Agreement (Document Review + 30 Minute Phone Call)",
+        "fees": 0.0,
+        "price": 250.0,
+        "is_available": true,
+        "services": [1],
+        "state_id": 39,
+        "package_type_id": 3,
+        "description":"<p><span style=\" white-space: pre-wrap;\">Prenuptual Agreement (Document Review + 30 Minute Phone Call)    <span rel=\"pastemarkerend\" id=\"pastemarkerend_69336\"></span></span><br>\r\n</p>"
+     }
+  },
+  {
+    "model": "services.Package",
+    "pk": 7,
+    "fields": {
+        "title": "Uncontested Divorce without Children (Document Review + 30 Minute Phone Call)",
+        "fees": 0.0,
+        "price": 500.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 37,
+        "package_type_id": 2,
+        "description": "<p>Uncontested Divorce without Children (Document Review + 30 Minute Phone Call)</p>"
+     }
+  },
+  {
+    "model": "services.Package",
+    "pk": 8,
+    "fields": { 
+        "title": "Uncontested Divorce without Children (Document Review + 30 Minute Phone Call)",
+        "fees": 0.0,
+        "price": 500.0, 
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 39,
+        "package_type_id": 2,
+        "description": "<p>Uncontested Divorce without Children (Document Review + 30 Minute Phone Call)</p>"
+     }
+  },
+  {
+    "model": "services.Package",
+    "pk": 9,
+    "fields": {
+        "title": "Legal Separation with Children (Document Review + 30 Minute Phone Call)",
+        "fees": 0.0,
+        "price": 600.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 37,
+        "package_type_id": 3,
+        "description":"<p>Legal Separation with Children (Document Review + 30 Minute Phone Call)</p>" 
+     }
+  },
+
+  {
+    "model": "services.Package",
+    "pk": 10,
+    "fields": {
+        "title": "Legal Separation with Children (Document Review + 30 Minute Phone Call)",
+        "fees": 0.0,
+        "price": 600.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 39,
+        "package_type_id": 3,
+        "description":"<p>Legal Separation with Children (Document Review + 30 Minute Phone Call)</p>"
+     }
+  }, 
+
+  {
+    "model": "services.Package",
+    "pk": 11,
+    "fields": {
+        "title": "Create a Postnuptual Agreement (with 30 Minute Intro Call)",
+        "fees": 0.0,
+        "price": 900.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 39,
+        "package_type_id": 3,
+        "description":"<p>Create a Postnuptual Agreement (with 30 Minute Intro Call)</p>"
+     }
+  }, 
+  {
+    "model": "services.Package",
+    "pk": 12,
+    "fields": {
+        "title": "Create a Postnuptual Agreement (with 30 Minute Intro Call)",
+        "fees": 0.0,
+        "price": 900.0, 
+        "is_available": true, 
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 37,
+        "package_type_id": 3,
+        "description":"<p>Create a Postnuptual Agreement (with 30 Minute Intro Call)</p>"
+     }
+  }, 
+  {
+    "model": "services.Package",
+    "pk": 13,
+    "fields": {
+        "title": "Uncontested Divorce with no Matrimonial Settlemet Agreement (Flat Fee)",
+        "fees": 0.0,
+        "price": 950.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 39,
+        "package_type_id": 2,
+        "description": "<blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">One More New York Uncontested</blockquote>"
+     }
+  }, 
+  {
+    "model": "services.Package",
+    "pk": 14,
+    "fields": {
+        "title": "Uncontested Divorce with no Matrimonial Settlemet Agreement (Flat Fee)", 
+        "fees": 0.0,
+        "price": 950.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 37,
+        "package_type_id": 2,
+        "description": "<blockquote style=\"margin: 0 0 0 40px; border: none; padding: 0px;\">One More New Jersey Uncontested</blockquote>"
+     }
+  }, 
+  {
+    "model": "services.Package",
+    "pk": 15,
+    "fields": {
+        "title": "Uncontested Divorce with no Matrimonial Settlement Agreement (Flat Fee)",
+        "fees": 0.0,
+        "price": 1200.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 39,
+        "package_type_id": 2,
+        "description": "<p><span style=\" white-space: pre-wrap;\">Uncontested Divorce with no Matrimonial Settlement Agreement (Flat Fee)<span rel=\"pastemarkerend\" id=\"pastemarkerend_31584\"></span></span><br>\r\n</p>"
+     }
+  }, 
+  {
+    "model": "services.Package",
+    "pk": 16,
+    "fields": {
+        "title": "Uncontested Divorce with no Matrimonial Settlemet Agreement (Flat Fee)",
+        "fees": 0.0,
+        "price": 1200.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 37,
+        "package_type_id": 2,
+        "description": "<p><span style=\"font-family: Calibri; font-size: 15px; white-space: pre-wrap;\">Uncontested Divorce with Matrimonial Settlement Agreement</span><br>\r\n</p>" 
+     }
+  }, 
+  {
+    "model": "services.Package",
+    "pk": 17,
+    "fields": {
+        "title": "Uncontested Divorce with Matrimonial Settlemet Agreement (Flat Fee)",
+        "fees": 0.0,
+        "price": 2500.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 37,
+        "package_type_id": 2,
+        "description": "<p><span style=\"font-family: Calibri; font-size: 15px; white-space: pre-wrap;\">Uncontested Divorce with Matrimonial Settlement Agreement</span><br>\r\n</p>"
+     }
+  }, 
+
+  {
+    "model": "services.Package",
+    "pk": 18,
+    "fields": {
+        "title": "Uncontested Divorce with Matrimonial Settlemet Agreement (Flat Fee)",
+        "fees": 0.0,
+        "price": 2500.0,
+        "is_available": true, 
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 39,
+        "package_type_id": 2,
+        "description": "<p><span style=\"font-family: Calibri; font-size: 15px; white-space: pre-wrap;\">Uncontested Divorce with Matrimonial Settlement Agreement</span><br>\r\n</p>"
+     }
+  }, 
+  {
+    "model": "services.Package",
+    "pk": 19,
+    "fields": {
+        "title": "Adoption",
+        "fees": 0.0,
+        "price": 4500.0,
+        "is_available": true, 
+        "services": [15],
+        "state_id": 37,
+        "package_type_id": 3,
+        "description": "<p>$4500 initial hourly retainer</p>"
+     }
+  }, 
+  {
+    "model": "services.Package",
+    "pk": 20,
+    "fields": {
+        "title": "Adoption",
+        "fees": 0.0,
+        "price": 4500.0,
+        "is_available": true,
+        "services": [15],
+        "state_id": 39,
+        "package_type_id": 3,
+        "description": "<p>$4500 initial hourly retainer</p>"
+     }
+  }, 
+  {
+    "model": "services.Package",
+    "pk": 21,
+    "fields": {
+        "title": "Contested Divorce with or without children",
+        "fees": 0.0,
+        "price": 5000.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 37,
+        "package_type_id": 1,
+        "description": "<p><span style=\" white-space: pre-wrap;\">Contested Divorce with or without children</span><br>\r\n</p>"
+     }
+  }, 
+  {
+    "model": "services.Package",
+    "pk": 22,
+    "fields": {
+        "title": "Contested Divorce with or without children",
+        "fees": 0.0,
+        "price": 5000.0,
+        "is_available": true,
+        "services": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+        "state_id": 39,
+        "package_type_id": 1,
+        "description": "<p><span style=\"white-space: pre-wrap;\">Contested Divorce with or without children -<span rel=\"pastemarkerend\" id=\"pastemarkerend_8231\"></span></span><span style=\" white-space: pre-wrap;\"> initial hourly retainer<span rel=\"pastemarkerend\" id=\"pastemarkerend_1906\"></span></span><br>\r\n</p>"
+     }
+  } 
+]

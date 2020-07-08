@@ -1,0 +1,101 @@
+[
+  {
+    "model": "users.User",
+    "pk": 2,
+    "fields": {
+      "first_name": "Alexander",
+      "last_name": "Segal",
+      "email": "ajsegal@myattorneyusa.com"
+    }
+  },
+  {
+    "model": "users.User",
+    "pk": 3,
+    "fields": {
+      "username": "egrinberg",
+      "first_name": "Eliza",
+      "last_name": "Grinberg",
+      "email":"egrinberg@myattorneyusa.com"
+    }
+  },
+  {
+    "model": "users.User",
+    "pk": 4,
+    "fields": {
+      "username": "wbarlow",
+      "first_name": "Wendey",
+      "last_name": "Barlow",
+      "email":"wbarlow@myattorneyusa.com"
+    }
+  },
+  {
+    "model": "users.User",
+    "pk": 5,
+    "fields": {
+      "username": "dmitrykh",
+      "first_name": "Dmitriy",
+      "last_name": "Khorosheniuk",
+      "email": "d.khorosheniuk@gmail.com"
+    }
+  },
+  {
+    "model": "users.User",
+    "pk": 6,
+    "fields": {
+        "username": "david",
+        "first_name": "David",
+        "last_name": "Grinberg",
+        "email": "david@egrinberg.com"
+    }
+  },
+  {
+    "model": "users.User",
+    "pk": 7,
+    "fields": {
+        "username": "webmyattorney",
+        "first_name": "Best Immigration",
+        "last_name": "and Deportation",
+        "email": "webmyattorney@gmail.com"
+    }
+  },
+  {
+    "model": "users.User",
+    "pk": 8,
+    "fields": {
+        "username": "nick",
+        "first_name": "Nicholas",
+        "last_name": "Ferrell",
+        "email": "austinferrell89@gmail.com"
+    }
+  },
+  {
+    "model": "users.User",
+    "pk": 9,
+    "fields": {
+        "username": "azhurba",
+        "first_name": "Alina",
+        "last_name": "Zhurba",
+        "email": "zhurba.alina@gmail.com"
+    }
+  },
+  {
+    "model": "users.User",
+    "pk": 10,
+    "fields": {
+        "username": "gskgrp",
+        "first_name": "Alexander J.",
+        "last_name": "Segal",
+        "email": "gskgrp@gmail.com"
+    }
+  },
+  {
+    "model": "users.User",
+    "pk": 11,
+    "fields": {
+        "username": "masatrian",
+        "first_name": "Melsida",
+        "last_name": "Asatrian",
+        "email": "masatrian@gmail.com"
+    }
+  }
+]
