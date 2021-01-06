@@ -69,7 +69,7 @@
     "babel-plugin-transform-typescript-type": "^1.4.2",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "babel-plugin-inline-react-svg": "^1.1.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bourbon": "6.0.0",
     "eventemitter3": "4.0.0",
     "cache-loader": "4.1.0",
