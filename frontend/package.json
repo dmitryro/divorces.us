@@ -106,7 +106,7 @@
     "@jdl2/cache-mobx": "^2.0.0-alpha.30",
     "moment":"^2.26.0",
     "moment-locales-webpack-plugin": "^1.2.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "nouislider": "^13.1.1",
     "nuka-carousel": "^4.7.0",
     "postcss": "^7.0.25",
